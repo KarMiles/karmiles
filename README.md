@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 👋
+
+I have recently completed a 1-year high intensity course in Full Stack Web Development. 
+
+The training prioritized coding and involved building several web development projects. Some of them are visible in my public Github profile.
+
+I have MSc in International Economic Relations from Kozminski University and Diploma in Full Stack Development from Code Institute.
+
 
 <!--
 **KarMiles/karmiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
