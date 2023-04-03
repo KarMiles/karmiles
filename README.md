@@ -6,7 +6,7 @@ The training prioritized coding and involved building several web development pr
 
 I have MSc in International Economic Relations from Kozminski University and Diploma in Full Stack Development from Code Institute.
 
-My LinkedIn profile: <a href="https://github.com/KarMiles"><img src="images/linkedin-logo.jpg" alt="LinkedIn" style="height:1rem;margin-left:2px;" border="0"> </a>.
+My LinkedIn profile: <a href="https://www.linkedin.com/in/karmiles/" target="_blank"><img src="images/linkedin-logo.jpg" alt="LinkedIn" style="height:1rem;margin-left:3px;" border="0"> </a>.
 
 
 
