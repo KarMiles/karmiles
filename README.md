@@ -4,7 +4,7 @@ I have recently completed a 1-year high intensity course in Full Stack Web Devel
 
 The training prioritized coding and involved building several web development projects. Some of them are visible in my public Github profile.
 
-I have MSc in International Economic Relations from Kozminski University and Diploma in Full Stack Development from Code Institute.
+I have MSc in International Economic Relations from [Kozminski University](https://www.kozminski.edu.pl/en) and Diploma in Full Stack Development from [Code Institute](https://codeinstitute.net/about-us/).
 
 My LinkedIn profile: <a href="https://www.linkedin.com/in/karmiles/" target="_blank"><img src="./images/karmiles-in.jpg" alt="LinkedIn" style="height:1rem;margin-left:3px;" border="0"> </a>
 
