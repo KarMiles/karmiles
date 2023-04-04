@@ -24,10 +24,8 @@ My LinkedIn profile:
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
-![Zapier](https://img.shields.io/badge/Zapier%20-FF4A00?&style=for-the-badge&logo=Zapier&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
-
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23646EDE.svg?&style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)
+![Zapier](https://img.shields.io/badge/Zapier%20-FF4A00?&style=for-the-badge&logo=Zapier&logoColor=white)
 
 ### Version Control | Coding
 
