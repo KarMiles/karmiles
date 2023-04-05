@@ -55,6 +55,11 @@ My LinkedIn profile:
 ![Lucidchart](https://img.shields.io/badge/lucidchart-orange?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![DrawSQL](https://img.shields.io/badge/drawsql-6366f1?style=for-the-badge&logo=drawsql&logoColor=white)
 
+### Methodologies
+![Agile](https://img.shields.io/badge/agile-03bbd3?style=for-the-badge&logo=agile&logoColor=white)
+
+
+
 <!-- ---
 
 ### My Stats : -->
