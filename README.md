@@ -58,12 +58,19 @@ My LinkedIn profile:
 ### Methodologies
 ![Agile](https://img.shields.io/badge/agile-03bbd3?style=for-the-badge&logo=agile&logoColor=white)
 
+<br>
 
+---
 
-<!-- ---
+### Statistics
 
-### My Stats : -->
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmiles)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmiles&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!--
 **KarMiles/karmiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
